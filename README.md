@@ -32,15 +32,15 @@ It should contain following information:
 
 ---
 
-**Try to structure your app in reasonable size of components.
+** Structure your app in reasonable size of components.
 
 Find parts in the UI, which gets repeated and structure these in components.**
 
-**Also try to apply stylings to your components by using css classes.**
+** Apply stylings to your components by using css classes.**
 
-**Use `props` to pass data to child components.**
+**`props` to pass data to child components.**
 
 *A child component is the component which you use within another component. For example we used the `<Section />` component in the `<App />` component in `hello-react`. The `<Section />` component is here the child of the `<App />` component.*
 
 
-***You should come up with at least 3 components (App doesn't count)***
+***Come up with at least 3 components (App doesn't count)***
